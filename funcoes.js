@@ -5,8 +5,3 @@ while(x<10){
     alert(x);
     x++;
 }
-
-do{
-    alert(x);
-    x--;
-}while(x<=10)
